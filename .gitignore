@@ -1,10 +1,7 @@
-.vscode/
+# The big stuff we don't/can't push
 venv/
 data/
-__pycache__/
-*.pyc
-*.pyo
-.DS_Store
+models/
 
 # VS code and ds store
 .vscode/
