@@ -17,3 +17,5 @@ A requirements.txt file has been provided. The jupyter notebook is also set up f
 The jupyter notebook file, CS_4650_Final_Project.ipynb, can be run in its entirety and will demonstrate SVM models as well as the train and validation loop for DistilBERT or BERT. 
 
 CS_4650_Final_Project.ipynb can be uploaded to google colab for training on a GPU.
+
+If uploaded to colab, the project will require preprocess.py for the SVMs.
