@@ -1,3 +1,4 @@
 torch
 pandas
 transformers
+gensim==3.8.0
